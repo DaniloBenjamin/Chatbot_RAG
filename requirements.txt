@@ -1,0 +1,8 @@
+pinecone-client==2.2.4
+pypdf==3.17.4
+openai==1.6.1
+langchain==0.0.352
+pandas==2.0.3
+numpy==1.24.3
+python-dotenv
+tiktoken==0.5.2
